@@ -8,7 +8,7 @@ The project includes a full analysis notebook (EDA, preprocessing, modeling) and
 
 ## Live Demo
 
-> To run locally, follow the setup instructions below.
+[heart-failure-prediction.streamlit.app](https://antrhsg-heart-failure-prediction.streamlit.app)
 
 ---
 
