@@ -6,12 +6,6 @@ The project includes a full analysis notebook (EDA, preprocessing, modeling) and
 
 ---
 
-## Live Demo
-
-[heart-failure-prediction.streamlit.app](https://antrhsg-heart-failure-prediction.streamlit.app)
-
----
-
 ## Project Overview
 
 **Dataset:** [Heart Failure Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/data) — 918 patients, 11 clinical features, binary target (Heart Disease: Yes/No).
