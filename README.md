@@ -147,13 +147,3 @@ Then open `http://localhost:8501` in your browser.
 ## Disclaimer
 
 This project is for educational purposes only. It is not a medical device and should not be used for clinical diagnosis or treatment decisions. Always consult a licensed healthcare professional.
-
-<<<<<<< HEAD
----
-
-## Author
-
-Built by [Your Name] as a personal data science project.  
-For questions or feedback, open an issue or reach out via [your contact/LinkedIn].
-=======
->>>>>>> 1bfb290eef5db95cbfecc4ce1a3495f5443fa469
